@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Pod-2-html.t
+lib/Pod/2/html.pm
