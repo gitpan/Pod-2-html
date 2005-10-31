@@ -2,5 +2,7 @@ Changes
 Makefile.PL
 MANIFEST
 README
+test.pl
+bar.tmpl
 t/Pod-2-html.t
 lib/Pod/2/html.pm
